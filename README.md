@@ -1,2 +1,0 @@
-# throne-webpage
-Professional Webpage
