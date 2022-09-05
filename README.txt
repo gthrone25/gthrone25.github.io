@@ -1,32 +1,18 @@
+# Personal Static Website
+
+This site is hosted by github pages on https://gthrone25.github.io/
+
+## Local Dev setup
+As this is a static page and nothing needs to build, this can simply be viewed in a browser for local development:
+
+### Steps
+1. Git Clone this repo
+2. Open Chrome (or another browser)
+3. Navigate to the path of the index.html in Chrome
+4. Make changes and see them populate within the browser
+
+
+Credit for the tempalte:
+
 Miniport by HTML5 UP
 html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-A super simple responsive portfolio template. It's only a single page because hey, sometimes
-you don't need a half dozen pages to make your point.
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
